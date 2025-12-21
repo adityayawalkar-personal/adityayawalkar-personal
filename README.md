@@ -6,9 +6,9 @@
 
 <h1 align="center">Hey 👋 I'm <strong>YOUR NAME</strong> — a curious <em>developer</em> who ships things.</h1>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" /></a>
+  <a href="https://github.com/adityayawalkar-personal"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=adityayawalkar-personal&color=blue&style=for-the-badge" /></a>
   &nbsp;&nbsp;
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=html,css&layout=compact" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityayawalkar-personal&hide=html,css&layout=compact" />
 </p>
 
 ---
@@ -61,19 +61,19 @@
 ---
 
 ## 🔭 Featured Projects
-> Click the images to open the repos. Replace `YOUR_USERNAME` and the repo names.
+> Click the images to open the repos. Replace `adityayawalkar-personal` and the repo names.
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-one" height="110" />
+  <a href="https://github.com/adityayawalkar-personal/project-one">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityayawalkar-personal&repo=project-one&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-one" height="110" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-two" height="110" />
+  <a href="https://github.com/adityayawalkar-personal/project-two">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityayawalkar-personal&repo=project-two&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-two" height="110" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/project-three">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-three&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-three" height="110" />
+  <a href="https://github.com/adityayawalkar-personal/project-three">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityayawalkar-personal&repo=project-three&title_color=ffffff&text_color=9fadb2&bg_color=0d1117" alt="project-three" height="110" />
   </a>
 </p>
 
@@ -82,10 +82,10 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_title=true" alt="github stats" />
+  <a href="https://github.com/adityayawalkar-personal">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityayawalkar-personal&show_icons=true&count_private=true&hide_title=true" alt="github stats" />
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=false&no-bg=false" alt="trophies" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityayawalkar-personal&theme=dracula&no-frame=false&no-bg=false" alt="trophies" height="150" />
 </p>
 
 <br clear="both"/>
