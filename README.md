@@ -6,13 +6,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
 </div>
 
-<h3 align="center">🤖 Passionate about building intelligent systems that bridge the physical and digital worlds</h3>
+<h3 align="center">Passionate about building intelligent systems that bridge the physical and digital world!</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/aditya-yawalkar-120605j"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.chess.com/member/yourusername"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/></a>
+  <a href="mailto:aditya.yawalkar@somaiya.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.chess.com/member/AdityaDPYG"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/></a>
 </div>
 
 <br/>
@@ -21,13 +21,11 @@
 
 ## 🚀 About Me
 
-- 🤖 **Robotics Engineer** specializing in autonomous systems and computer vision
+- 🤖 **Robotics Engineer** specializing in autonomous systems, computer vision and AI
 - 🧠 Building intelligent robots that perceive, learn, and interact with the world
 - 🔭 Currently working on multi-robot coordination and SLAM
-- 🌱 Exploring reinforcement learning for robotic manipulation
-- 💡 Passionate about ROS, computer vision, and embedded systems
-- ⚡ Fun fact: I debug robots by day and practice chess tactics by night
-- 🎯 2025 Goal: Reach ELO 2000 on chess.com and contribute to open-source robotics
+- 🌱 Exploring multiple learning and AI techniques for robotic manipulation
+- 💡 Passionate about ROS, computer vision, AI, ML, and embedded systems
 
 <br/><br/>
 
@@ -54,7 +52,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 
 </div>
